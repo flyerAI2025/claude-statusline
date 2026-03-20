@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 40" width="820" height="40">
+  <rect width="820" height="40" rx="5" fill="#1a1b26"/>
+  <text x="14" y="26"
+        font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace"
+        font-size="13.5"
+        font-weight="bold"
+        letter-spacing="0">
+    <tspan fill="#bb9af7">Sonnet&#xB7;4.6</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#9ece6a">H</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#e0af68">112k/200k(56%)</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#e0af68">$3.07</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#f7768e">5h:96%!</tspan><tspan fill="#565f89">@19:00&#x2502;</tspan><tspan fill="#f7768e">7d:87%</tspan><tspan fill="#565f89">@03/22&#xB7;01:00&#x2502;</tspan><tspan fill="#7aa2f7">cpu:10%</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#2ac3de">1.7/16G</tspan><tspan fill="#565f89">&#x2502;</tspan><tspan fill="#9ece6a">18:00</tspan>
+  </text>
+</svg>
